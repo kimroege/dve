@@ -1,0 +1,10 @@
+Logitech.GHUB
+Google.Chrome
+RiotGames.Valorant.EU
+Valve.Steam
+Discord.Discord
+Blizzard.BattleNet
+Nvidia.GeForceNow
+FACEITLTD.FACEITAC
+Ubisoft.Connect
+EpicGames.EpicGamesLauncher

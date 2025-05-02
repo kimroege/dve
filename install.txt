@@ -1,0 +1,9 @@
+EpicGames.EpicGamesLauncher
+Steam.Steam
+GOG.GOGGalaxy
+Origin.Origin
+Uplay.Uplay
+Battle.net.Battle.net
+Discord.Discord
+Google.Chrome
+NVIDIA.GeForceNOW
